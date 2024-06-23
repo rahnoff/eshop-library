@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.contoso.eshop</groupId>
+  <artifactId>library</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>eventhandling</module>
+  </modules>
+</project>
+

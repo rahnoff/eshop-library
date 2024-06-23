@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.contoso.eshop</groupId>
+  <artifactId>eventhandling</artifactId>
+  <version>1</version>
+</project>
+
